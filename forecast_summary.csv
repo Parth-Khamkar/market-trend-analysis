@@ -1,0 +1,9 @@
+sector,prediction_accuracy_pct,forecast_error_mape_pct,r2_score,90d_forecast_growth_pct
+Industrials,98.4,1.6,0.58,13.27
+Technology,98.8,1.2,0.381,9.91
+Financials,98.1,1.9,0.431,8.06
+Healthcare,98.7,1.3,0.265,6.52
+Utilities,99.1,0.9,0.586,6.45
+Real Estate,99.2,0.8,0.496,5.51
+Energy,98.7,1.3,0.212,4.91
+Consumer Goods,99.0,1.0,0.11,3.32
